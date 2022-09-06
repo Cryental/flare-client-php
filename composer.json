@@ -1,5 +1,5 @@
 {
-    "name": "facade/flare-client-php",
+    "name": "cryental/flare-client-php",
     "description": "Send PHP errors to Flare",
     "keywords": [
         "facade",
